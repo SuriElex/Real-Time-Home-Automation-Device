@@ -48,6 +48,9 @@ The ESP32 creates its own WiFi Access Point named **Suri_Home** and hosts a web 
 * Alexa Integration
 * Multi-Appliance Control
 * Mobile Application
+ ## Circuit Diagram
+
+![Circuit Diagram](Circuit_Diagram.png)
 
 ## Author
 
